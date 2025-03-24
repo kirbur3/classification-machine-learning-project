@@ -1,4 +1,4 @@
-# classification-machine-learning-project
+# classification_machine_learning_project
 
 Group Project
 
