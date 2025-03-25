@@ -2,7 +2,7 @@
 
 Group Project
 
-Data: admission.csv - 85 students who are either supposed to be admitted, borderline, or not supposed to be admitted into a graduate business program.
+Data: admission.csv - eighty-five students who are either supposed to be admitted, borderline, or not supposed to be admitted into a graduate business program based on GPA and GMAT scores.
 
 Coded three classification methods: Linear Discriminant Analysis (LDA), Quadratic Discriminant Analysis (QDA), and K-Nearest Neighbors (KNN).
 
