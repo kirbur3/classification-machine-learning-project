@@ -1,5 +1,7 @@
 # classification_machine_learning_project
 
+Note: This project is listed on my resume as "Admission Classification with ML Group Project".
+
 Group Project
 
 Data: admission.csv - eighty-five students who are either supposed to be admitted, borderline, or not supposed to be admitted into a graduate business program based on GPA and GMAT scores.
