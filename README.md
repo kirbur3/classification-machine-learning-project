@@ -1,6 +1,6 @@
 # classification_machine_learning_project
 
-Note: This project is listed on my CV & resume as "**Admission Classification with ML**".
+Note: This project is listed as "**Admission Classification with ML**".
 
 Group Project
 
