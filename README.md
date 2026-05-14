@@ -14,4 +14,6 @@ Plotted decision boundary plots on training data and testing data for all three 
 
 Evaluated the performance of each of the models.
 
-Wrote a professional report on our findings *Admission Classification with ML Report*.
+Wrote a professional report *Admission Classification with ML Report* on our findings.
+
+Presented our findings: *Admission Classification with ML Presentation*.
