@@ -1,4 +1,4 @@
-# STAT387 Group 3 Final Project R Script
+# Admission Classification with ML
 
 # Rylan Harrison
 # Jocelyn Murguia Macias
