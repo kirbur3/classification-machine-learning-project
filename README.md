@@ -13,7 +13,7 @@ Tools: R, MASS, caret, ggplot2
 - Train/test split by stratified sampling: 5 test observations per class for balanced evaluation (group_by(De) %>% slice_head(n=5))
 - Decision boundary plots generated on both training and test data for all three classifiers
 
-## Kira's Contributions
+## My Contributions
 - LDA and QDA model implementation and evaluation on both training and test data
 - get_perf_metrics() function: takes predicted probabilities, predicted classes, and ground truth; returns confusion matrix + results table with per-class sensitivity, per-class specificity, mean sensitivity, mean specificity, overall accuracy, overall error rate, and multiclass AUC, used across all three models (LDA, QDA, KNN)
 - Co-authored written report and presented findings to the class
@@ -24,4 +24,4 @@ Tools: R, MASS, caret, ggplot2
 - LDA and QDA decision boundary plots on training and test data (geom_raster background + geom_contour boundary lines)
 
 ## Deliverables
-Dataset: admission.csv. R script (STAT387_Coding_My_Part.docx), group R script (STAT387_Group_3_R_Script.R), written report (Admission Classification with ML Report), and class presentation (Admission Classification with ML Presentation).
+Dataset: admission.csv. R script (Admission Classification with ML.R), written report (Admission Classification with ML Report), and class presentation (Admission Classification with ML Presentation).
